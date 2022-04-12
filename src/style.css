@@ -60,6 +60,9 @@ main {
 }
 
 .meme {
+    max-width: 600px;
+    width: 75%;
+    margin: 0 auto;
     position: relative;
 }
 
